@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pelicula: MyText
+  director: MyString
+  genero: MyString
+  usuario: MyString
+
+two:
+  pelicula: MyText
+  director: MyString
+  genero: MyString
+  usuario: MyString
